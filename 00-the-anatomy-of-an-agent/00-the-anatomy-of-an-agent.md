@@ -1,5 +1,9 @@
 # Lesson 00 — The Anatomy of an Agent
 
+<p align="center">
+  <img src="../assets/00-the-anatomy-of-an-agent.png" alt="agent-craft-zero-to-hero" width="100%">
+</p>
+
 > **Agent 到底是什么？**
 
 在开始写 Agent 之前，我们先回答一个最基本的问题：

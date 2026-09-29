@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/agent-craft-course.png" alt="agent-zero-to-hero" width="100%">
+  <img src="assets/agent-craft-course.png" alt="agent-craft-zero-to-hero" width="100%">
 </p>
 
 # Agent Craft: From Zero to Hero
@@ -63,8 +63,8 @@ Part 3  框架
 
 | 资源 | 内容 |
 | --- | --- |
-| [Bash 入门教程](01-terminal-bash-agent.md) | 按先修关系安排的 20 课，包含讲解、可运行示例、练习与验收。第 01～19 课可离线学习，第 20 课接入真实模型。 |
-| [完整 Agent 脚本](01-terminal-bash-agent.sh) | 使用 DeepSeek API 的 Mini Coding Agent，包含消息历史、四个工具和双层循环。 |
+| [Bash 入门教程](01-terminal-bash-agent/01-terminal-bash-agent.md) | 按先修关系安排的 20 课，包含讲解、可运行示例、练习与验收。第 01～19 课可离线学习，第 20 课接入真实模型。 |
+| [完整 Agent 脚本](01-terminal-bash-agent/01-terminal-bash-agent.sh) | 使用 DeepSeek API 的 Mini Coding Agent，包含消息历史、四个工具和双层循环。 |
 
 ### 学习大纲
 
@@ -83,10 +83,10 @@ Part 3  框架
 
 ### 开始学习
 
-1. 打开 [Bash 入门教程](01-terminal-bash-agent.md)，按照“开始前”建立专用练习目录。
+1. 打开 [Bash 入门教程](01-terminal-bash-agent/01-terminal-bash-agent.md)，按照“开始前”建立专用练习目录。
 2. 按教程第 01～20 课顺序练习，使用 `bash lesson-01.sh` 等命令运行示例。
 3. 离线跑通工具调用闭环后，配置 `curl`、`jq` 与 `DEEPSEEK_API_KEY`，完成真实模型请求。
-4. 将 [完整脚本](01-terminal-bash-agent.sh) 复制到练习目录，运行：
+4. 将 [完整脚本](01-terminal-bash-agent/01-terminal-bash-agent.sh) 复制到练习目录，运行：
 
    ```bash
    printf 'hello agent\n' > hello.txt
