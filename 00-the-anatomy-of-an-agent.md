@@ -331,7 +331,7 @@ Agent = LLM + Tools + Context + Loop
 
 > **Agent 的本质，是让模型能够在一个循环中，根据环境反馈持续决定下一步行动，直到任务完成。**
 
-![[assets/00-the-anatomy-of-an-agent.png]]
+![[./assets/00-the-anatomy-of-an-agent.png]]
 ---
 
 ## 下一课
