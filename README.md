@@ -46,7 +46,7 @@ Part 3  框架
 
 ## 序章：Agent 的构成
 
-阅读 [The Anatomy of an Agent](00-the-anatomy-of-an-agent.md)，从 Shell 与工具使用开始，理解 LLM 如何通过工具和反馈形成 Agent Loop，为后续动手实现打下基础。
+阅读 [The Anatomy of an Agent](00-the-anatomy-of-an-agent/00-the-anatomy-of-an-agent.md)，从 Shell 与工具使用开始，理解 LLM 如何通过工具和反馈形成 Agent Loop，为后续动手实现打下基础。
 
 ## Part 0 手搓第一个 Agent（Bash）
 
